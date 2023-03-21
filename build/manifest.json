@@ -1,0 +1,10 @@
+{
+  "build/main.css": "/build/main.css",
+  "build/main.js": "/build/main.js",
+  "build/images/bg.png": "/build/images/bg.png",
+  "build/images/preview.gif": "/build/images/preview.gif",
+  "build/images/fav.png": "/build/images/fav.png",
+  "build/images/opensea.png": "/build/images/opensea.png",
+  "build/images/twitter.png": "/build/images/twitter.png",
+  "build/images/home.png": "/build/images/home.png"
+}
